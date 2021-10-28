@@ -1,0 +1,1 @@
+﻿msbuild Project.csproj /t:Publish /p:Configuration=Deploy
